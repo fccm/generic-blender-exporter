@@ -20,11 +20,11 @@ email to make the demand.
 
 This script is compatible with Blender version 2.49b
 (Released-date: 2010-06-16)
- 
+
 ## Install:
 
-If you don't have root access you can copy this script in the directory:
-  ~/.blender/scripts/
-otherwise you can install it in the directory:
-  /usr/lib/blender/scripts/
+If you don't have root access you can copy this script in the directory:  
+  ~/.blender/scripts/  
+otherwise you can install it in the directory:  
+  /usr/lib/blender/scripts/  
 
